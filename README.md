@@ -1,5 +1,5 @@
 ### Hey 👋 I'am Daniel and 
-https://github-readme-stats.vercel.app/api?username={JDanielOrdonez}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDanielOrdonez)](https://github.com/JDanielOrdonez/github-readme-stats)
 <!--
 **JDanielOrdonez/JDanielOrdonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
