@@ -21,4 +21,4 @@ Hi! I'm Jesús Daniel and I'm 21 years old, currently I'm about to finish my Com
 
 ## Stats
 
-![Codedgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codedgar&show_icons=true&theme=radical)
+![Codedgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDanielOrdonez&show_icons=true&theme=radical)
