@@ -2,7 +2,7 @@
 Hi! I'm Jesús Daniel and I'm 21 years old, currently I'm about to finish my Computer Engineering degree. I consider myself a calm person and committed to continuous improvement and teamwork. I am a self-taught person and passionate about software development, what I like the most is the web development both Font-end and Back-end.<br>
 
 ##I'm a Frontend Developer 
-<img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile#-static}" />
+- :💀 HTML
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDanielOrdonez)](https://github.com/JDanielOrdonez/github-readme-stats)
 
