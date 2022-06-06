@@ -1,4 +1,5 @@
-### Hey 👋 I'am Daniel and 
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+### Hey 👋 I'am Daniel 💻🕶️
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDanielOrdonez)](https://github.com/JDanielOrdonez/github-readme-stats)
 <!--
 **JDanielOrdonez/JDanielOrdonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
