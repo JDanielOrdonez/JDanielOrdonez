@@ -14,6 +14,28 @@ Hi! I'm Jesús Daniel and I'm 21 years old, currently I'm about to finish my Com
 - 💅 BOOTSTRAP.
 - 🧠 MySQL.
 
+```javascript
+  const birthDate = new Date("02/12/2000").getTime();
+  const currDate = new Date().getTime();
+  const age = Math.floor((currDate - birthDate) / 31536000000);
+  const moreAboutMe = {
+    locatedIn: {
+      country: "México",
+      state: "Chiapas"
+    },
+    age: `${age} years old`,
+    techStack: {
+      frontEnd: ["HTML", "CSS", "Javascript", "Bootstrap"],
+      backend: ["PHP", "C#", "Python"],
+      databases: ["MySql"],
+      versionControl: ["Git"]
+    },
+    role: ["Junior Frontend Developer", "Junior Developer"],
+  }
+```
+
+
+
 ## Languages
 
 - 🇪🇸 Spanish (Native)
