@@ -35,8 +35,8 @@ Hi! I'm Jesús Daniel and I'm 21 years old, currently I'm about to finish my Com
 
 ## Languages
 
-- 🇪🇸 Spanish (Native)
-- 🇺🇸 English (25%)
+- 🇪🇸 Spanish. (Native)
+- 🇺🇸 English. (25%)
 
 ## Stats
 
