@@ -38,6 +38,6 @@ Hi! I'm Jesús Daniel and I'm 21 years old, currently I'm about to finish my Com
 - 🇪🇸 Spanish. (Native)
 - 🇺🇸 English. (25%)
 
-## Stats
+## Stats.
 
 ![Codedgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDanielOrdonez&show_icons=true&theme=radical)
